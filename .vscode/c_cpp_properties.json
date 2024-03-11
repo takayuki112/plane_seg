@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/devel/include/**",
+        "/home/aaryan-atp/summer23/catkin_ws/src/action_fig/include/**",
+        "/home/aaryan-atp/summer23/catkin_ws/src/burning/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/src/cloudy/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/src/faster/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/src/new_dawn/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/src/rl_nav/include/**",
+        "/home/aaryan-atp/summer23/new_catkin_ws/src/teb_local_planner/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

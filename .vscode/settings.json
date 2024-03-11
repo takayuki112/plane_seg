@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aaryan-atp/summer23/new_catkin_ws/devel/lib/python3/dist-packages",
+        "/home/aaryan-atp/summer23/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/aaryan-atp/summer23/new_catkin_ws/devel/lib/python3/dist-packages",
+        "/home/aaryan-atp/summer23/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
