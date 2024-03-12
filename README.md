@@ -3,7 +3,7 @@ This is a ROS package that does ground-plane segmentation and obstacle detection
 ## Example Run
 You can run the package given you have a point cloud file being published to a topic (as defined in at the top of the ground_plane_seg.cpp file) in a ROS environment. 
 
-![Alt text](./screenshots/output.png)
+![Alt text](./screenshots/output2.png)
 
 ### Example Pointcloud - 
 ![Alt text](./screenshots/example2.png)
