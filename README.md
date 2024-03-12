@@ -5,10 +5,13 @@ You can run the package given you have a point cloud file being published to a t
 
 ![Alt text](./screenshots/output.png)
 
-The Gorund - 
-![Alt text](./screenshots/ground.png)
+### Example Pointcloud - 
+![Alt text](./screenshots/example2.png)
 
-The Obstacles -
-![Alt text](./screenshots/obstacles.png)
+The segmented Gorund - 
+![Alt text](./screenshots/ground2.png)
+
+The segmented Obstacles -
+![Alt text](./screenshots/obstacles2.png)
 
 
